@@ -20,7 +20,7 @@ else
 fi
 
 f1=0
-f2=1
+f2=2
 
 echo "The Fibonacci sequences for the number $Num is : "
 
